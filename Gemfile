@@ -4,6 +4,7 @@ gem 'bootstrap-generators'
 gem 'table_print'
 gem 'rspec-rails'
 gem 'guard-rspec'
+gem 'rqrcode'
 
 group :development do
   gem 'sqlite3'
