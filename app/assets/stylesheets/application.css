@@ -12,8 +12,20 @@
  *
  *= require_tree .
  *= require_self
+ *= require font-awesome
  */
 
+.rails_link a:hover {
+  color: #ddd
+}
+
+.rails_link a:visited {
+  color: #ddd
+}
+
+.rails_link a:active {
+  color: #ddd
+}
 
 table {
   border-width: 0;

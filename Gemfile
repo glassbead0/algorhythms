@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'bootstrap-generators'
+gem 'font-awesome-rails'
 gem 'table_print'
 gem 'rspec-rails'
 gem 'guard-rspec'
