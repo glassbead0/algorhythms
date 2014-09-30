@@ -27,6 +27,28 @@
   color: #ddd
 }
 
+@media screen and (max-width: 500px) {
+  #section4, .no_mobile {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  #section6, .no_mobile_md {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
 table {
   border-width: 0;
   border-style: none;
