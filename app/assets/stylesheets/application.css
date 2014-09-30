@@ -32,8 +32,8 @@
     visibility: hidden;
     clear: both;
     float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
+    margin: 0px 0px 0px 0px;
+    width: 0%;
     display: none;
   }
 }
@@ -43,8 +43,8 @@
     visibility: hidden;
     clear: both;
     float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
+    margin: 0px 0px 0px 0px;
+    width: 0%;
     display: none;
   }
 }
